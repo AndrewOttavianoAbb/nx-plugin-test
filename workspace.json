@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "projects": {
+    "test-lib": "packages/test-lib",
+    "test-plugin": "packages/test-plugin",
+    "test-plugin-e2e": "packages/test-plugin-e2e"
+  }
+}
